@@ -46,7 +46,7 @@ sitetreeGen({
 });
 ```
 
-##### JSON
+##### Output JSON
 
 ```json
 {
