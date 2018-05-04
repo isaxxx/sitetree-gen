@@ -1,10 +1,10 @@
 {
-  "name": "sitetree",
+  "name": "sitetree-gen",
   "version": "1.0.0",
   "description": "Generate the site tree object and the JSON file for information graphics.",
   "main": "./index.js",
   "bin": {
-    "sitetree": "./bin/sitetree"
+    "sitetree-gen": "./bin/sitetree-gen"
   },
   "scripts": {
     "test": "ava --verbose"
@@ -17,10 +17,10 @@
     "node": ">=6.11.4"
   },
   "author": "isaxxx",
-  "homepage": "https://isaxxx.com/works/sitetree",
+  "homepage": "https://isaxxx.com/works/sitetree-gen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/isaxxx/sitetree"
+    "url": "https://github.com/isaxxx/sitetree-gen"
   },
   "license": "MIT",
   "dependencies": {
