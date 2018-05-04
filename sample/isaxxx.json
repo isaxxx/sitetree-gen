@@ -1,0 +1,301 @@
+{
+  "name": "/",
+  "title": "Webエンジニアの忘備録 – HTML、CSS、JavaScript、WordPress の Tips + α",
+  "url": "https://isaxxx.com/",
+  "children": [
+    {
+      "name": "archives",
+      "children": [
+        {
+          "name": "category",
+          "children": [
+            {
+              "name": "html-css",
+              "title": "HTML・CSS – Webエンジニアの忘備録",
+              "url": "https://isaxxx.com/archives/category/html-css/"
+            },
+            {
+              "name": "javascript",
+              "title": "JavaScript – Webエンジニアの忘備録",
+              "url": "https://isaxxx.com/archives/category/javascript/"
+            },
+            {
+              "name": "wordpress",
+              "title": "WordPress – Webエンジニアの忘備録",
+              "url": "https://isaxxx.com/archives/category/wordpress/"
+            },
+            {
+              "name": "other-technology",
+              "title": "Other Technology – Webエンジニアの忘備録",
+              "url": "https://isaxxx.com/archives/category/other-technology/"
+            },
+            {
+              "name": "my-life",
+              "title": "My Life – Webエンジニアの忘備録",
+              "url": "https://isaxxx.com/archives/category/my-life/"
+            }
+          ]
+        },
+        {
+          "name": "193",
+          "title": "nodebrewでNode.jsのバージョン管理 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/193/"
+        },
+        {
+          "name": "137",
+          "title": "小説家に向かない人 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/137/"
+        },
+        {
+          "name": "129",
+          "title": "やる気の法則 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/129/"
+        },
+        {
+          "name": "127",
+          "title": "MacOSのメモリ削除コマンド – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/127/"
+        },
+        {
+          "name": "103",
+          "title": "ブラウザで求められるクロスサイトのアクセス制限 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/103/"
+        },
+        {
+          "name": "101",
+          "title": "position:fixedについて – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/101/"
+        },
+        {
+          "name": "94",
+          "title": "HSTS（HTTP Strict Transport Security）について – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/94/"
+        },
+        {
+          "name": "92",
+          "title": "DOMについての復習 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/92/"
+        },
+        {
+          "name": "82",
+          "title": "JavaScript真偽値でfalseになるもの一覧 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/82/"
+        },
+        {
+          "name": "83",
+          "title": "Sassの便利関数まとめ – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/83/"
+        },
+        {
+          "name": "date",
+          "children": [
+            {
+              "name": "2018",
+              "children": [
+                {
+                  "name": "04",
+                  "title": "2018年4月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2018/04/",
+                  "children": [
+                    {
+                      "name": "page",
+                      "children": [
+                        {
+                          "name": "2",
+                          "title": "2018年4月 – ページ 2 – Webエンジニアの忘備録",
+                          "url": "https://isaxxx.com/archives/date/2018/04/page/2/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "01",
+                  "title": "2018年1月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2018/01/"
+                }
+              ]
+            },
+            {
+              "name": "2017",
+              "children": [
+                {
+                  "name": "11",
+                  "title": "2017年11月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2017/11/"
+                },
+                {
+                  "name": "09",
+                  "title": "2017年9月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2017/09/"
+                }
+              ]
+            },
+            {
+              "name": "2016",
+              "children": [
+                {
+                  "name": "12",
+                  "title": "2016年12月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2016/12/"
+                },
+                {
+                  "name": "11",
+                  "title": "2016年11月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2016/11/"
+                },
+                {
+                  "name": "10",
+                  "title": "2016年10月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2016/10/"
+                },
+                {
+                  "name": "06",
+                  "title": "2016年6月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2016/06/"
+                }
+              ]
+            },
+            {
+              "name": "2014",
+              "children": [
+                {
+                  "name": "11",
+                  "title": "2014年11月 – Webエンジニアの忘備録",
+                  "url": "https://isaxxx.com/archives/date/2014/11/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "63",
+          "title": "忘れがちな属性とセットで使うHTMLタグ – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/63/"
+        },
+        {
+          "name": "34",
+          "title": "IE11ですべてのメディアクエリ内のCSSが瞬間的に適応されるため、transitionが効いてしまい色々動いてしまう問題について – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/34/"
+        },
+        {
+          "name": "31",
+          "title": "IEでYouTubeの重なり順を調整する – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/31/"
+        },
+        {
+          "name": "27",
+          "title": "iOS10系のChromeでformat-detectionが有効にならないバグ – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/27/"
+        },
+        {
+          "name": "13",
+          "title": "Sublime Text インデントの自動調整方法 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/13/"
+        },
+        {
+          "name": "69",
+          "title": "mkdir()の権限はOSのumaskの影響を受けるため、chmod()でちゃんと変更する必要がある – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/69/"
+        },
+        {
+          "name": "23",
+          "title": "WP-CLIでWordPressのデータ移行 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/23/"
+        },
+        {
+          "name": "77",
+          "title": "WordPressで連想配列をマージ – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/77/"
+        },
+        {
+          "name": "74",
+          "title": "外部DBサーバー接続コマンド – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/74/"
+        },
+        {
+          "name": "71",
+          "title": "コマンドベースの文字列検索 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/71/"
+        },
+        {
+          "name": "19",
+          "title": "Browsersyncで同じLAN内の人にローカルファイルを見せる – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/19/"
+        },
+        {
+          "name": "7",
+          "title": "よく使うhtaccessの設定 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/7/"
+        },
+        {
+          "name": "200",
+          "title": "Androidブラウザ対応の対象を5.0以上にするときの説得材料 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/200/"
+        },
+        {
+          "name": "53",
+          "title": "理解しようと努力しない人が、わかることは何もない – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/53/"
+        },
+        {
+          "name": "43",
+          "title": "今日という日は2度とこない – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/43/"
+        },
+        {
+          "name": "38",
+          "title": "二人で一人の天才 – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/archives/38/"
+        }
+      ]
+    },
+    {
+      "name": "about",
+      "title": "このサイトについて – Webエンジニアの忘備録",
+      "url": "https://isaxxx.com/about/"
+    },
+    {
+      "name": "inquiry",
+      "title": "お問合せ – Webエンジニアの忘備録",
+      "url": "https://isaxxx.com/inquiry/"
+    },
+    {
+      "name": "works",
+      "title": "開発実績 – Webエンジニアの忘備録",
+      "url": "https://isaxxx.com/works/",
+      "children": [
+        {
+          "name": "ejs-html-cli",
+          "title": "ejs-html-cli – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/works/ejs-html-cli/"
+        },
+        {
+          "name": "wpdb",
+          "title": "wpdb – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/works/wpdb/"
+        },
+        {
+          "name": "iconfont-gen",
+          "title": "iconfont-gen – Webエンジニアの忘備録",
+          "url": "https://isaxxx.com/works/iconfont-gen/"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "children": [
+        {
+          "name": "2",
+          "title": "Webエンジニアの忘備録 – ページ 2 – HTML、CSS、JavaScript、WordPress の Tips + α",
+          "url": "https://isaxxx.com/page/2/"
+        },
+        {
+          "name": "3",
+          "title": "Webエンジニアの忘備録 – ページ 3 – HTML、CSS、JavaScript、WordPress の Tips + α",
+          "url": "https://isaxxx.com/page/3/"
+        }
+      ]
+    }
+  ]
+}

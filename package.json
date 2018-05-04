@@ -1,0 +1,36 @@
+{
+  "name": "sitetree",
+  "version": "1.0.0",
+  "description": "Generate the site tree object and the JSON file for information graphics.",
+  "main": "./index.js",
+  "bin": {
+    "sitetree": "./bin/sitetree"
+  },
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "keywords": [
+    "sitetree",
+    "json"
+  ],
+  "engines": {
+    "node": ">=6.11.4"
+  },
+  "author": "isaxxx",
+  "homepage": "https://isaxxx.com/works/sitetree",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaxxx/sitetree"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cheerio-httpcli": "^0.7.3",
+    "fs-extra": "^6.0.0",
+    "update-notifier": "^2.5.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
