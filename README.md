@@ -6,6 +6,8 @@ Generate the site tree object and the JSON file for information graphics.
 [![Build Status](https://travis-ci.org/isaxxx/sitetree-gen.svg?branch=master)](https://travis-ci.org/isaxxx/sitetree-gen)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
+[Sample](https://isaxxx.com/no-wp/sitetree-gen/)
+
 ## Installation
 
 ### npm
@@ -89,8 +91,6 @@ sitetreeGen({
   ]
 }
 ```
-
-For more in depth documentation see: https://isaxxx.com/works/sitetree-gen/
 
 ## [Changelog](CHANGELOG.md)
 
