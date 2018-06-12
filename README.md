@@ -20,11 +20,11 @@ $ npm install sitetree-gen --save
 
 ```
 Options:
-  --url, -u       target site url. [string]
-  --output, -o    output json file path. [string]
-  --speed, -s     crawl speed. [number] [default: 3000]
-  --version, -v   show this version. [boolean]
-  --help, -h      show this help. [boolean]
+  --url target site url. [string]
+  --output output json file path. [string]
+  --speed crawl speed. [number] [default: 3000]
+  --version, -v show this version. [boolean]
+  --help, -h show this help. [boolean]
 ```
 
 ## Example
@@ -32,7 +32,7 @@ Options:
 ##### CLI
 
 ```bash
-$ sitetree-gen -u http://example.com -o ./dest/example.json -s 5000
+$ sitetree-gen --url http://example.com --output ./dest/example.json --speed 5000
 ```
 
 ##### API

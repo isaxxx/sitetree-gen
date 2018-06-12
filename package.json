@@ -1,6 +1,6 @@
 {
   "name": "sitetree-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate the site tree object and the JSON file for information graphics.",
   "main": "./index.js",
   "bin": {
@@ -17,7 +17,6 @@
     "node": ">=6.11.4"
   },
   "author": "isaxxx",
-  "homepage": "https://isaxxx.com/works/sitetree-gen",
   "repository": {
     "type": "git",
     "url": "https://github.com/isaxxx/sitetree-gen"
