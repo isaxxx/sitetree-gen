@@ -1,6 +1,6 @@
 /**
  *
- * test code
+ * index
  *
  */
 
@@ -9,12 +9,12 @@
 const sitetreeGen = require('../index');
 const test = require('ava');
 
-test('crawl test', (t) => {
+test('crawl', (t) => {
 	return new Promise((resolve, reject) => {
 		return sitetreeGen({
 			url: 'http://example.com'
-		}, (sitetree) => {
-			if (sitetree.title === 'Example Domain') {
+		}, (err, sitetree) => {
+			if (!err && sitetree.title === 'Example Domain') {
 				return resolve(t.pass());
 			} else {
 				return reject(t.fail());

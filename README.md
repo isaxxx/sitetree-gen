@@ -23,6 +23,7 @@ Options:
   --url target site url. [string]
   --output output json file path. [string]
   --speed crawl speed. [number] [default: 3000]
+  --log whether to log. [bool] [default: true]
   --version, -v show this version. [boolean]
   --help, -h show this help. [boolean]
 ```
@@ -32,7 +33,7 @@ Options:
 ##### CLI
 
 ```bash
-$ sitetree-gen --url http://example.com --output ./dest/example.json --speed 5000
+$ sitetree-gen --url http://example.com --output ./dest/example.json --speed 3000 --log true
 ```
 
 ##### API
@@ -41,7 +42,6 @@ $ sitetree-gen --url http://example.com --output ./dest/example.json --speed 500
 const sitetreeGen = require('sitetree-gen');
 
 sitetreeGen({
-  url: 'http://example.com',
   url: 'http://example.com'
 }, (sitetree) => {
   console.log(sitetree.title);
