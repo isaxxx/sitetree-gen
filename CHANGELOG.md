@@ -1,3 +1,7 @@
+# 1.0.3 (2018-06-16)
+
+- Fix: readme text
+
 # 1.0.2 (2018-06-15)
 
 - Fix: crawl relative path

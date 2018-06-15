@@ -43,8 +43,10 @@ const sitetreeGen = require('sitetree-gen');
 
 sitetreeGen({
   url: 'http://example.com'
-}, (sitetree) => {
-  console.log(sitetree.title);
+}, (err, sitetree) => {
+  if (!err) {
+    console.log(sitetree.title);
+  }
 });
 ```
 
