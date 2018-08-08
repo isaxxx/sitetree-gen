@@ -8,13 +8,15 @@ Sitetree Generator.
 
 ## Installation
 
-### npm
+### NPM
 
 ```bash
 $ npm install sitetree-gen --save
 ```
 
 ## Usage
+
+### CLI
 
 ```
 Options:
@@ -24,10 +26,6 @@ Options:
   --version, -v   show this version. [boolean]
   --help, -h      show this help. [boolean]
 ```
-
-## Example
-
-### CLI
 
 ```bash
 $ sitetree-gen --url http://example.com --output ./sitetree.json --speed 3000
