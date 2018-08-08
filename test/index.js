@@ -1,7 +1,7 @@
 const test = require('ava');
 const sitetreeGen = require('../index');
 
-test('exec', (t) => {
+test('exec - case 001', (t) => {
   return sitetreeGen({
     url: 'http://example.com',
     output: './sitetree.json',

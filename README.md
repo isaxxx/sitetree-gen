@@ -34,14 +34,12 @@ $ sitetree-gen --url http://example.com --output ./sitetree.json --speed 3000
 ### JavaScript
 
 ```js
-const sitetreeGen = require('sitetree-gen');
-
 sitetreeGen({
-  url: 'http://example.com'
-}, (err, sitetree) => {
-  if (!err) {
-    console.log(sitetree.title);
-  }
+  url: 'http://example.com',
+  output: './sitetree.json',
+  speed: 5000
+}).then((sitetree) => {
+  console.log('Complete!!');
 });
 ```
 
