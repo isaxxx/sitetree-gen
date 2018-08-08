@@ -1,17 +1,21 @@
 {
   "name": "sitetree-gen",
-  "version": "1.0.3",
-  "description": "Generate the site tree object and the JSON file for information graphics.",
+  "version": "1.1.0",
+  "description": "Sitetree Generator.",
   "main": "./index.js",
   "bin": {
     "sitetree-gen": "./bin/sitetree-gen"
   },
   "scripts": {
-    "test": "ava --verbose"
+    "test": "ava --verbose",
+    "check": "eslint .",
+    "git-ignore": "git rm -r --cached . && git add -A && git commit --allow-empty -m 'gitignore-refresh' && git reset --soft HEAD^",
+    "git-commit": "git add -A && git commit",
+    "git-push": "git push origin master",
+    "npm-publish": "npm publish"
   },
   "keywords": [
-    "sitetree",
-    "json"
+    "sitetree"
   ],
   "engines": {
     "node": ">=6.11.4"
@@ -30,6 +34,7 @@
     "yargs": "^11.0.0"
   },
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^0.25.0",
+    "eslint": "^5.3.0"
   }
 }
