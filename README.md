@@ -89,7 +89,7 @@ sitetreeGen({
 
 ### Sample Infographics
 
-[https://isaxxx.com/no-wp/sitetree-gen/](https://isaxxx.com/no-wp/sitetree-gen/)
+[https://product.isaxxx.com/sitetree-gen/](https://product.isaxxx.com/sitetree-gen/)
 
 ## [Changelog](CHANGELOG.md)
 
