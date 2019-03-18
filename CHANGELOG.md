@@ -1,3 +1,7 @@
+# 1.2.0 (2019-03-19)
+
+- Change: Change from cheerio to Puppeteer
+
 # 1.1.3 (2018-11-30)
 
 - Fix: When the href attribute is not set or javascript or tel or e-mail in the a element
