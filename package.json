@@ -1,6 +1,6 @@
 {
   "name": "sitetree-gen",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Sitetree Generator.",
   "main": "./index.js",
   "bin": {
