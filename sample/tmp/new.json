@@ -1,0 +1,22 @@
+{
+  "name": "/",
+  "title": "株式会社ベストブライダル新卒採用サイト",
+  "url": "http://bestbridal.webkikakutest.com/recruit/",
+  "children": [
+    {
+      "name": "thought",
+      "title": "想い｜株式会社ベストブライダル新卒採用サイト",
+      "url": "http://bestbridal.webkikakutest.com/recruit/thought/"
+    },
+    {
+      "name": "system",
+      "title": "社内制度｜株式会社ベストブライダル新卒採用サイト",
+      "url": "http://bestbridal.webkikakutest.com/recruit/system/"
+    },
+    {
+      "name": "new-grad",
+      "title": "募集要項｜株式会社ベストブライダル新卒採用サイト",
+      "url": "http://bestbridal.webkikakutest.com/recruit/new-grad/"
+    }
+  ]
+}

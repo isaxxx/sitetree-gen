@@ -1,5 +1,3335 @@
 {
   "name": "/",
-  "title": "Example Domain",
-  "url": "http://example.com/"
+  "title": "土木・建築・建設業向けソフトウェア＆サービス | 株式会社コンピュータシステム研究所",
+  "url": "https://www.cstnet.co.jp/",
+  "children": [
+    {
+      "name": "civil",
+      "title": "土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/civil/index.html",
+      "children": [
+        {
+          "name": "news",
+          "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/news/index.html",
+          "children": [
+            {
+              "name": "200615.html",
+              "title": "建設業向け原価管理システム MARS Evo（マルスエボ） | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/200615.html"
+            },
+            {
+              "name": "190208.html",
+              "title": "OrpheusがNETISの事後評価実施済み技術に選定 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/190208.html"
+            },
+            {
+              "name": "190117.html",
+              "title": "積算セミナー | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/190117.html"
+            },
+            {
+              "name": "171201are.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/171201are.html"
+            },
+            {
+              "name": "171201se.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/171201se.html"
+            },
+            {
+              "name": "161116.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/161116.html"
+            },
+            {
+              "name": "161015.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/161015.html"
+            },
+            {
+              "name": "131220.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/131220.html"
+            },
+            {
+              "name": "121115.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/121115.html"
+            },
+            {
+              "name": "121001.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/121001.html"
+            },
+            {
+              "name": "120913.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/120913.html"
+            },
+            {
+              "name": "101101.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/101101.html"
+            },
+            {
+              "name": "100426.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/100426.html"
+            },
+            {
+              "name": "100125.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/100125.html"
+            },
+            {
+              "name": "100115m.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/100115m.html"
+            },
+            {
+              "name": "1502jsemi.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/1502jsemi.html"
+            },
+            {
+              "name": "141127semi.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/141127semi.html"
+            },
+            {
+              "name": "141014semi.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/141014semi.html"
+            },
+            {
+              "name": "110124.html",
+              "title": "新着情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/news/110124.html"
+            }
+          ]
+        },
+        {
+          "name": "products",
+          "title": "製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/products/index.html",
+          "children": [
+            {
+              "name": "atlusrealevo",
+              "title": "土木積算システム ATLUS REAL Evo（アトラス レアル エボ） | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "機能詳細 | 土木積算ソフト ATLUS REAL Evo（アトラス レアル エボ） | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/function.html"
+                },
+                {
+                  "name": "local.html",
+                  "title": "都道府県対応 | 土木積算システム ATLUS REAL Evo（アトラス レアル エボ） | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/local.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "サポート | 土木積算システム ATLUS REAL（アトラス レアル エボ） | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/support.html"
+                },
+                {
+                  "name": "option.html",
+                  "title": "オプション | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/option.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 土木積算システム ATLUS REAL Evo（アトラス レアル エボ） | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/spec.html"
+                },
+                {
+                  "name": "01hokkaido.html",
+                  "title": "北海道対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/01hokkaido.html"
+                },
+                {
+                  "name": "02aomori.html",
+                  "title": "青森県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/02aomori.html"
+                },
+                {
+                  "name": "03iwate.html",
+                  "title": "岩手県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/03iwate.html"
+                },
+                {
+                  "name": "04miyagi.html",
+                  "title": "宮城県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/04miyagi.html"
+                },
+                {
+                  "name": "05akita.html",
+                  "title": "秋田県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/05akita.html"
+                },
+                {
+                  "name": "06yamagata.html",
+                  "title": "山形県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/06yamagata.html"
+                },
+                {
+                  "name": "07fukushima.html",
+                  "title": "福島県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/07fukushima.html"
+                },
+                {
+                  "name": "13tokyo.html",
+                  "title": "東京都対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/13tokyo.html"
+                },
+                {
+                  "name": "14kanagawa.html",
+                  "title": "神奈川県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/14kanagawa.html"
+                },
+                {
+                  "name": "11saitama.html",
+                  "title": "埼玉県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/11saitama.html"
+                },
+                {
+                  "name": "12chiba.html",
+                  "title": "千葉県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/12chiba.html"
+                },
+                {
+                  "name": "08ibaraki.html",
+                  "title": "茨城県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/08ibaraki.html"
+                },
+                {
+                  "name": "09tochigi.html",
+                  "title": "栃木県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/09tochigi.html"
+                },
+                {
+                  "name": "10gunma.html",
+                  "title": "群馬県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/10gunma.html"
+                },
+                {
+                  "name": "19yamanashi.html",
+                  "title": "山梨県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/19yamanashi.html"
+                },
+                {
+                  "name": "20nagano.html",
+                  "title": "長野県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/20nagano.html"
+                },
+                {
+                  "name": "15niigata.html",
+                  "title": "新潟県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/15niigata.html"
+                },
+                {
+                  "name": "16toyama.html",
+                  "title": "富山県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/16toyama.html"
+                },
+                {
+                  "name": "17ishikawa.html",
+                  "title": "石川県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/17ishikawa.html"
+                },
+                {
+                  "name": "18fukui.html",
+                  "title": "福井県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/18fukui.html"
+                },
+                {
+                  "name": "23aichi.html",
+                  "title": "愛知県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/23aichi.html"
+                },
+                {
+                  "name": "21gifu.html",
+                  "title": "岐阜県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/21gifu.html"
+                },
+                {
+                  "name": "22shizuoka.html",
+                  "title": "静岡県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/22shizuoka.html"
+                },
+                {
+                  "name": "24mie.html",
+                  "title": "三重県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/24mie.html"
+                },
+                {
+                  "name": "27osaka.html",
+                  "title": "大阪府対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/27osaka.html"
+                },
+                {
+                  "name": "28hyogo.html",
+                  "title": "兵庫県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/28hyogo.html"
+                },
+                {
+                  "name": "26kyoto.html",
+                  "title": "京都府対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/26kyoto.html"
+                },
+                {
+                  "name": "25shiga.html",
+                  "title": "滋賀県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/25shiga.html"
+                },
+                {
+                  "name": "29nara.html",
+                  "title": "奈良県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/29nara.html"
+                },
+                {
+                  "name": "30wakayama.html",
+                  "title": "和歌山県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/30wakayama.html"
+                },
+                {
+                  "name": "31tottori.html",
+                  "title": "鳥取県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/31tottori.html"
+                },
+                {
+                  "name": "32shimane.html",
+                  "title": "島根県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/32shimane.html"
+                },
+                {
+                  "name": "33okayama.html",
+                  "title": "岡山県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/33okayama.html"
+                },
+                {
+                  "name": "34hiroshima.html",
+                  "title": "広島県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/34hiroshima.html"
+                },
+                {
+                  "name": "35yamaguchi.html",
+                  "title": "山口県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/35yamaguchi.html"
+                },
+                {
+                  "name": "36tokushima.html",
+                  "title": "徳島県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/36tokushima.html"
+                },
+                {
+                  "name": "37kagawa.html",
+                  "title": "香川県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/37kagawa.html"
+                },
+                {
+                  "name": "38ehime.html",
+                  "title": "愛媛県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/38ehime.html"
+                },
+                {
+                  "name": "39kochi.html",
+                  "title": "高知県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/39kochi.html"
+                },
+                {
+                  "name": "40fukuoka.html",
+                  "title": "福岡県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/40fukuoka.html"
+                },
+                {
+                  "name": "41saga.html",
+                  "title": "佐賀県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/41saga.html"
+                },
+                {
+                  "name": "42nagasaki.html",
+                  "title": "長崎県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/42nagasaki.html"
+                },
+                {
+                  "name": "43kumamoto.html",
+                  "title": "熊本県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/43kumamoto.html"
+                },
+                {
+                  "name": "44oita.html",
+                  "title": "大分県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/44oita.html"
+                },
+                {
+                  "name": "45miyazaki.html",
+                  "title": "宮崎県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/45miyazaki.html"
+                },
+                {
+                  "name": "46kagoshima.html",
+                  "title": "鹿児島県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/46kagoshima.html"
+                },
+                {
+                  "name": "47okinawa.html",
+                  "title": "沖縄県対応版 | 土木積算ソフト ATLUS REAL Evo(アトラス レアル エボ) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusrealevo/47okinawa.html"
+                }
+              ]
+            },
+            {
+              "name": "saviourevo",
+              "title": "労働安全衛生支援システム Saviour Evo(セイバー エボ)| 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/saviourevo/index.html",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "機能詳細 | 労働安全衛生支援システム Saviour Evo| 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/saviourevo/function.html"
+                },
+                {
+                  "name": "learn.html",
+                  "title": "労働安全衛生支援システム Saviour Evo(セイバー エボ)| 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/saviourevo/learn.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 労働安全衛生支援システム Saviour Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/saviourevo/spec.html"
+                }
+              ]
+            },
+            {
+              "name": "demo_online.html",
+              "title": "オンラインデモ（リモートデモ） | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/demo_online.html"
+            },
+            {
+              "name": "mars",
+              "title": "現場代理人専用 原価管理システム MARS Evo(マルス エボ) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/mars/index.html",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "実行予算 | 原価管理ソフト MARS Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/mars/function.html"
+                },
+                {
+                  "name": "function2.html",
+                  "title": "出来高日報・原価集計 | 原価管理ソフト MARS Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/mars/function2.html"
+                },
+                {
+                  "name": "cloud.html",
+                  "title": "クラウド運用 | 原価管理ソフト MARS Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/mars/cloud.html"
+                },
+                {
+                  "name": "document.html",
+                  "title": "出力帳票 | 原価管理ソフト MARS Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/mars/document.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "サポート | 原価管理ソフト MARS Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/mars/support.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 原価管理ソフト MARS Evo | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/mars/spec.html"
+                }
+              ]
+            },
+            {
+              "name": "orpheus",
+              "title": "工事トータルソリューション Orpheus(オルフェウス) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/orpheus/index.html",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "製品詳細 | 工事トータルソリューション Orpheus | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/orpheus/function.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 工事トータルソリューション Orpheus | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/orpheus/spec.html"
+                }
+              ]
+            },
+            {
+              "name": "iso",
+              "title": "ISOコンサルティングサービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/iso/index.html",
+              "children": [
+                {
+                  "name": "inquiry",
+                  "title": "お問い合わせ | ISOコンサルティングサービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/iso/inquiry/index.php"
+                }
+              ]
+            },
+            {
+              "name": "atlusreal",
+              "title": "土木積算システム ATLUS REAL(アトラス レアル) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/atlusreal/",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "機能詳細 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/function.html"
+                },
+                {
+                  "name": "cooperation.html",
+                  "title": "業務連携 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/cooperation.html"
+                },
+                {
+                  "name": "local.html",
+                  "title": "都道府県対応 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/local.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "サポート | 土木積算システム ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/support.html"
+                },
+                {
+                  "name": "option.html",
+                  "title": "オプション | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/option.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/spec.html"
+                },
+                {
+                  "name": "01hokkaido.html",
+                  "title": "北海道対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/01hokkaido.html"
+                },
+                {
+                  "name": "02aomori.html",
+                  "title": "青森県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/02aomori.html"
+                },
+                {
+                  "name": "03iwate.html",
+                  "title": "岩手県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/03iwate.html"
+                },
+                {
+                  "name": "04miyagi.html",
+                  "title": "宮城県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/04miyagi.html"
+                },
+                {
+                  "name": "05akita.html",
+                  "title": "秋田県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/05akita.html"
+                },
+                {
+                  "name": "06yamagata.html",
+                  "title": "山形県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/06yamagata.html"
+                },
+                {
+                  "name": "07fukushima.html",
+                  "title": "福島県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/07fukushima.html"
+                },
+                {
+                  "name": "13tokyo.html",
+                  "title": "東京都対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/13tokyo.html"
+                },
+                {
+                  "name": "14kanagawa.html",
+                  "title": "神奈川県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/14kanagawa.html"
+                },
+                {
+                  "name": "11saitama.html",
+                  "title": "埼玉県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/11saitama.html"
+                },
+                {
+                  "name": "12chiba.html",
+                  "title": "千葉県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/12chiba.html"
+                },
+                {
+                  "name": "08ibaraki.html",
+                  "title": "茨城県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/08ibaraki.html"
+                },
+                {
+                  "name": "09tochigi.html",
+                  "title": "栃木県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/09tochigi.html"
+                },
+                {
+                  "name": "10gunma.html",
+                  "title": "群馬県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/10gunma.html"
+                },
+                {
+                  "name": "19yamanashi.html",
+                  "title": "山梨県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/19yamanashi.html"
+                },
+                {
+                  "name": "20nagano.html",
+                  "title": "長野県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/20nagano.html"
+                },
+                {
+                  "name": "15niigata.html",
+                  "title": "新潟県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/15niigata.html"
+                },
+                {
+                  "name": "16toyama.html",
+                  "title": "富山県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/16toyama.html"
+                },
+                {
+                  "name": "17ishikawa.html",
+                  "title": "石川県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/17ishikawa.html"
+                },
+                {
+                  "name": "18fukui.html",
+                  "title": "福井県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/18fukui.html"
+                },
+                {
+                  "name": "23aichi.html",
+                  "title": "愛知県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/23aichi.html"
+                },
+                {
+                  "name": "21gifu.html",
+                  "title": "岐阜県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/21gifu.html"
+                },
+                {
+                  "name": "22shizuoka.html",
+                  "title": "静岡県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/22shizuoka.html"
+                },
+                {
+                  "name": "24mie.html",
+                  "title": "三重県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/24mie.html"
+                },
+                {
+                  "name": "27osaka.html",
+                  "title": "大阪府対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/27osaka.html"
+                },
+                {
+                  "name": "28hyogo.html",
+                  "title": "兵庫県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/28hyogo.html"
+                },
+                {
+                  "name": "26kyoto.html",
+                  "title": "京都府対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/26kyoto.html"
+                },
+                {
+                  "name": "25shiga.html",
+                  "title": "滋賀県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/25shiga.html"
+                },
+                {
+                  "name": "29nara.html",
+                  "title": "奈良県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/29nara.html"
+                },
+                {
+                  "name": "30wakayama.html",
+                  "title": "和歌山県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/30wakayama.html"
+                },
+                {
+                  "name": "31tottori.html",
+                  "title": "鳥取県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/31tottori.html"
+                },
+                {
+                  "name": "32shimane.html",
+                  "title": "島根県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/32shimane.html"
+                },
+                {
+                  "name": "33okayama.html",
+                  "title": "岡山県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/33okayama.html"
+                },
+                {
+                  "name": "34hiroshima.html",
+                  "title": "広島県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/34hiroshima.html"
+                },
+                {
+                  "name": "35yamaguchi.html",
+                  "title": "山口県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/35yamaguchi.html"
+                },
+                {
+                  "name": "36tokushima.html",
+                  "title": "徳島県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/36tokushima.html"
+                },
+                {
+                  "name": "37kagawa.html",
+                  "title": "香川県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/37kagawa.html"
+                },
+                {
+                  "name": "38ehime.html",
+                  "title": "愛媛県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/38ehime.html"
+                },
+                {
+                  "name": "39kochi.html",
+                  "title": "高知県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/39kochi.html"
+                },
+                {
+                  "name": "40fukuoka.html",
+                  "title": "福岡県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/40fukuoka.html"
+                },
+                {
+                  "name": "41saga.html",
+                  "title": "佐賀県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/41saga.html"
+                },
+                {
+                  "name": "42nagasaki.html",
+                  "title": "長崎県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/42nagasaki.html"
+                },
+                {
+                  "name": "43kumamoto.html",
+                  "title": "熊本県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/43kumamoto.html"
+                },
+                {
+                  "name": "44oita.html",
+                  "title": "大分県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/44oita.html"
+                },
+                {
+                  "name": "45miyazaki.html",
+                  "title": "宮崎県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/45miyazaki.html"
+                },
+                {
+                  "name": "46kagoshima.html",
+                  "title": "鹿児島県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/46kagoshima.html"
+                },
+                {
+                  "name": "47okinawa.html",
+                  "title": "沖縄県対応版 | 土木積算ソフト ATLUS REAL(アトラス レアル) | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/atlusreal/47okinawa.html"
+                }
+              ]
+            },
+            {
+              "name": "saviour",
+              "title": "労働安全衛生総合支援システム Saviour Second Edition(セイバー セカンド エディション)| 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/products/saviour/index.html",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "機能詳細 | 労働安全衛生総合支援システム Saviour Second Edition| 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/saviour/function.html"
+                },
+                {
+                  "name": "option.html",
+                  "title": "オプション | 労働安全衛生総合支援システム Saviour Second Edition | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/saviour/option.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 労働安全衛生総合支援システム Saviour Second Edition | 製品・サービス | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/civil/products/saviour/spec.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "support",
+          "title": "サポート | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/support/index.html",
+          "children": [
+            {
+              "name": "200625.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/200625.html"
+            },
+            {
+              "name": "200526.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/200526.html"
+            },
+            {
+              "name": "191113.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/191113.html"
+            },
+            {
+              "name": "191107.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/191107.html"
+            },
+            {
+              "name": "191030.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/191030.html"
+            },
+            {
+              "name": "190415.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/190415.html"
+            },
+            {
+              "name": "190131.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/190131.html"
+            },
+            {
+              "name": "190111.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/190111.html"
+            },
+            {
+              "name": "topics.html",
+              "title": "サポート | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/topics.html"
+            },
+            {
+              "name": "sn.html",
+              "title": "シリアル番号の確認手順 | サポート | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/sn.html"
+            },
+            {
+              "name": "base.html",
+              "title": "サポート拠点 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/base.html"
+            },
+            {
+              "name": "attention.html",
+              "title": "サポートに関する注意事項 | サポート | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/attention.html"
+            },
+            {
+              "name": "tel.html",
+              "title": "電話サポート | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/tel.html"
+            },
+            {
+              "name": "200120.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/200120.html"
+            },
+            {
+              "name": "190719.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/190719.html"
+            },
+            {
+              "name": "190528.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/190528.html"
+            },
+            {
+              "name": "190204.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/190204.html"
+            },
+            {
+              "name": "181003.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/181003.html"
+            },
+            {
+              "name": "181101.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/181101.html"
+            },
+            {
+              "name": "181009.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/181009.html"
+            },
+            {
+              "name": "180316.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/180316.html"
+            },
+            {
+              "name": "180501.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/180501.html"
+            },
+            {
+              "name": "180330.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/180330.html"
+            },
+            {
+              "name": "171111.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/171111.html"
+            },
+            {
+              "name": "171010.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/171010.html"
+            },
+            {
+              "name": "170923.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/170923.html"
+            },
+            {
+              "name": "170911.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/170911.html"
+            },
+            {
+              "name": "170721.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/170721.html"
+            },
+            {
+              "name": "170407.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/170407.html"
+            },
+            {
+              "name": "170306.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/170306.html"
+            },
+            {
+              "name": "160726.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/160726.html"
+            },
+            {
+              "name": "160620.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/160620.html"
+            },
+            {
+              "name": "160606.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/160606.html"
+            },
+            {
+              "name": "150917.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/150917.html"
+            },
+            {
+              "name": "160330.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/160330.html"
+            },
+            {
+              "name": "150612.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/150612.html"
+            },
+            {
+              "name": "160227.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/160227.html"
+            },
+            {
+              "name": "160125.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/160125.html"
+            },
+            {
+              "name": "150925.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/150925.html"
+            },
+            {
+              "name": "150918.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/150918.html"
+            },
+            {
+              "name": "150810.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/150810.html"
+            },
+            {
+              "name": "150511.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/150511.html"
+            },
+            {
+              "name": "141110.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/141110.html"
+            },
+            {
+              "name": "140520.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/140520.html"
+            },
+            {
+              "name": "140319.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/140319.html"
+            },
+            {
+              "name": "140317.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/140317.html"
+            },
+            {
+              "name": "131028.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/131028.html"
+            },
+            {
+              "name": "140221.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/140221.html"
+            },
+            {
+              "name": "130304.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/130304.html"
+            },
+            {
+              "name": "130218.html",
+              "title": "サポート情報 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/civil/support/130218.html"
+            }
+          ]
+        },
+        {
+          "name": "demo",
+          "title": "訪問デモ／オンラインデモ依頼 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/demo/index.php"
+        },
+        {
+          "name": "request",
+          "title": "資料請求 | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/request/index.php"
+        },
+        {
+          "name": "download",
+          "title": "カタログダウンロード | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/download/index.php"
+        },
+        {
+          "name": "inquiry",
+          "title": "お問い合わせ | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/inquiry/index.php"
+        },
+        {
+          "name": "inquiry_support",
+          "title": "サポートお問い合わせ | 土木事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/civil/inquiry_support/index.php"
+        }
+      ]
+    },
+    {
+      "name": "archi",
+      "title": "建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/archi/index.html",
+      "children": [
+        {
+          "name": "news",
+          "title": "新着情報 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/news/index.html",
+          "children": [
+            {
+              "name": "200326.html",
+              "title": "スキャンした手書き図面をAIで3Dデータに変換「ALTA AIスケッチ EDW連携」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/200326.html"
+            },
+            {
+              "name": "200301.html",
+              "title": "「新規 / 増設」+ 集合研修セット | 木造建築物構造計算ソフト KIZUKURI | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/200301.html"
+            },
+            {
+              "name": "200318.html",
+              "title": "「Web版 HOKKAIDO HOME BUILDERS FAIR2020」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/200318.html"
+            },
+            {
+              "name": "200205.html",
+              "title": "木造建築物構造計算ソフトKIZUKURI 集合研修（初級編） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/200205.html"
+            },
+            {
+              "name": "200304.html",
+              "title": "「北海道ホームビルダーズフェア 2020」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/200304.html"
+            },
+            {
+              "name": "200226.html",
+              "title": "「2020 住設建材フェア in ほっかいどう」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/200226.html"
+            },
+            {
+              "name": "191203.html",
+              "title": "「木造住宅構造セミナー」はじめてのKIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/191203.html"
+            },
+            {
+              "name": "191101.html",
+              "title": "KIZUKURI・KIZUKURI2×4「ご紹介キャンペーン」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/191101.html"
+            },
+            {
+              "name": "191211.html",
+              "title": "「第1回 工務店支援EXPO」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/191211.html"
+            },
+            {
+              "name": "191001.html",
+              "title": "ドラマ「まだ結婚できない男」にてALTAが使用されました。| 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/191001.html"
+            },
+            {
+              "name": "190925.html",
+              "title": "「第3回 関西 建材・住設EXPO」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/190925.html"
+            },
+            {
+              "name": "190903.html",
+              "title": "「KIZUKURI・KIZUKURI2×4」セミナー | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/190903.html"
+            },
+            {
+              "name": "190620.html",
+              "title": "積算業務をスマートにする「ALTA スマ積サービス」を開始 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/190620.html"
+            },
+            {
+              "name": "190610.html",
+              "title": "AIで手書き図面を3Dデータに変換する「ALTA AIスケッチ」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/190610.html"
+            },
+            {
+              "name": "190308.html",
+              "title": "「ビルダーネット及び付随サービス」終了のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/190308.html"
+            },
+            {
+              "name": "190228.html",
+              "title": "長期優良住宅等申請サポートサービス終了のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/190228.html"
+            },
+            {
+              "name": "181130.html",
+              "title": "民法改正のポイント解説 長期優良住宅・ゼロエネ住宅申請セミナー | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/181130.html"
+            },
+            {
+              "name": "181212.html",
+              "title": "「第3回 高性能 建材・住設 EXPO」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/181212.html"
+            },
+            {
+              "name": "180926.html",
+              "title": "「第1回 関西 AI・スマート住宅EXPO」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180926.html"
+            },
+            {
+              "name": "180717.html",
+              "title": "「リフォーム産業フェア2018」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180717.html"
+            },
+            {
+              "name": "180530.html",
+              "title": "SketchUp Proの日本総代理店であるアルファコックスと技術提携 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180530.html"
+            },
+            {
+              "name": "180604.html",
+              "title": "木造建築物構造計算ソフト「KIZUKURI Ver7.7」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180604.html"
+            },
+            {
+              "name": "180622.html",
+              "title": "4つのキーワードで経営を成功に導く「ビジネス強化セミナー」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180622.html"
+            },
+            {
+              "name": "180418.html",
+              "title": "「家」と「庭」を一体で考える住まいづくりセミナー in 熊谷 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180418.html"
+            },
+            {
+              "name": "180305.html",
+              "title": "ICT×人材教育で受注を伸ばす「ALTA リフォーム提案力強化パッケージ」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180305.html"
+            },
+            {
+              "name": "180314.html",
+              "title": "「北海道ホームビルダーズフェア 2018」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180314.html"
+            },
+            {
+              "name": "180221_vr.html",
+              "title": "複数名で同時体験可能な住宅プレゼン用VRシステム「ALTA VR-mini マルチオプション」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180221_vr.html"
+            },
+            {
+              "name": "171130.html",
+              "title": "枠組壁工法版 木造住宅構造計算ソフト「KIZUKURI2×4 Ver5.5」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/171130.html"
+            },
+            {
+              "name": "180111.html",
+              "title": "「ALTA SS 新バージョン発表会＆勉強会 in 千葉」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/180111.html"
+            },
+            {
+              "name": "171204.html",
+              "title": "「ALTA SS 新バージョン発表会＆勉強会 in 熊谷」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/171204.html"
+            },
+            {
+              "name": "171023.html",
+              "title": "東京VRショールームをリニューアルオープン | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/171023.html"
+            },
+            {
+              "name": "171013.html",
+              "title": "土地活用事業化支援システム 「ROOK（ルーク）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/171013.html"
+            },
+            {
+              "name": "171024.html",
+              "title": "「VR体験セミナー（旭川・札幌）」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/171024.html"
+            },
+            {
+              "name": "170706.html",
+              "title": "「住宅用VR体験会 in 札幌」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170706.html"
+            },
+            {
+              "name": "170609.html",
+              "title": "日刊木材新聞に「ALTA VR-Mini」の記事が掲載されました | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170609.html"
+            },
+            {
+              "name": "170606.html",
+              "title": "日刊木材新聞に「KIZUKURI」開発者インタビュー記事が掲載されました | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170606.html"
+            },
+            {
+              "name": "170531.html",
+              "title": "住宅用ルームスケールVRシステム「ALTA VR-mini」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170531.html"
+            },
+            {
+              "name": "170519.html",
+              "title": "木造住宅構造計算ソフト「KIZUKURI Ver7.6」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170519.html"
+            },
+            {
+              "name": "170411.html",
+              "title": "日刊木材新聞2017年4月11日号にALTAが記事掲載されました | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170411.html"
+            },
+            {
+              "name": "170331.html",
+              "title": "住宅プレゼンシステム「ALTA Ver.5」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170331.html"
+            },
+            {
+              "name": "170315.html",
+              "title": "「北海道ホームビルダーズフェア 2017」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170315.html"
+            },
+            {
+              "name": "170222.html",
+              "title": "「2017 住設建材フェアinほっかいどう」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170222.html"
+            },
+            {
+              "name": "170123.html",
+              "title": "「住宅模型出力」サービス内容変更のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170123.html"
+            },
+            {
+              "name": "170126.html",
+              "title": "工務店様向け探客＆住宅提案セミナー体験会 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170126.html"
+            },
+            {
+              "name": "170121.html",
+              "title": "「宮城・仙台 住宅リフォームフェア 2017」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/170121.html"
+            },
+            {
+              "name": "161128.html",
+              "title": "木造住宅構造計算ソフト「KIZUKURI」新バージョンをリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/161128.html"
+            },
+            {
+              "name": "161129.html",
+              "title": "「VR体感セミナー（札幌）」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/161129.html"
+            },
+            {
+              "name": "161108.html",
+              "title": "「受注に繋がる営業力向上セミナー」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/161108.html"
+            },
+            {
+              "name": "161026.html",
+              "title": "「第38回 ジャパンホームショー」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/161026.html"
+            },
+            {
+              "name": "160927.html",
+              "title": "「ALTA SS 新商品発表会」（郡山・熊谷）を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160927.html"
+            },
+            {
+              "name": "160915.html",
+              "title": "仙台にVRショールームをOPEN | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160915.html"
+            },
+            {
+              "name": "160920.html",
+              "title": "「受注に繋がるヒアリング力 向上セミナー」を開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160920.html"
+            },
+            {
+              "name": "160825.html",
+              "title": "日刊木材新聞2016年8月25日号に「ALTA SS」が記事掲載されました | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160825.html"
+            },
+            {
+              "name": "160906.html",
+              "title": "リコージャパン様主催のフェアに出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160906.html"
+            },
+            {
+              "name": "160822.html",
+              "title": "住宅用ポータブルVRシステム 「GyroEye for ALTA」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160822.html"
+            },
+            {
+              "name": "160729.html",
+              "title": "「ALTA SS」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160729.html"
+            },
+            {
+              "name": "160725_ss.html",
+              "title": "住宅設計CADシステム「ALTA SS」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160725_ss.html"
+            },
+            {
+              "name": "160725.html",
+              "title": "熊本地震に学ぶ「明日からでも役に立つ構造知識」セミナーを開催 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160725.html"
+            },
+            {
+              "name": "160623.html",
+              "title": "木造舎から構造計算システム「KIZUKURI」及び関連事業の事業譲受に関するお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160623.html"
+            },
+            {
+              "name": "160620.html",
+              "title": "体感型ショールームを大阪にオープン | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160620.html"
+            },
+            {
+              "name": "160604.html",
+              "title": "日刊木材新聞2016年6月4日号に「ALTA for ヒアリング」が記事掲載されました | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160604.html"
+            },
+            {
+              "name": "160525.html",
+              "title": "住宅営業ヒアリングツール「ALTA for ヒアリング」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160525.html"
+            },
+            {
+              "name": "160526.html",
+              "title": "「住宅ビジネスフェア 2016」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160526.html"
+            },
+            {
+              "name": "160229.html",
+              "title": "外皮計算機能を強化した住宅設計3次元CAD「Super Soft（スーパーソフト）」最新版をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160229.html"
+            },
+            {
+              "name": "160302_nihei.html",
+              "title": "「2016年 ニヘイ春の木材・建材フェア」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160302_nihei.html"
+            },
+            {
+              "name": "160224_kuwazawa.html",
+              "title": "「2016 住設建材フェアinほっかいどう」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160224_kuwazawa.html"
+            },
+            {
+              "name": "160302.html",
+              "title": "「第6回 エコハウス＆エコビルディング EXPO」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/160302.html"
+            },
+            {
+              "name": "151215.html",
+              "title": "「オーナーズVision10」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/151215.html"
+            },
+            {
+              "name": "151105.html",
+              "title": "新築・リフォーム対応機能を強化した「ALTAハイブリッド」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/151105.html"
+            },
+            {
+              "name": "151102.html",
+              "title": "賃貸物件収支計算システム「オーナーズVision10」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/151102.html"
+            },
+            {
+              "name": "151118.html",
+              "title": "「Japan Home ＆ Building Show 2015」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/151118.html"
+            },
+            {
+              "name": "150909.html",
+              "title": "建築CAD「Super Soft II」＆住宅プレゼンシステム「ALTA」体験会 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150909.html"
+            },
+            {
+              "name": "150903_ss.html",
+              "title": "「Super Soft II」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150903_ss.html"
+            },
+            {
+              "name": "151001.html",
+              "title": "「ALTA」体験会・「SuperSoft II」Ver4.7発表会 in 金沢 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/151001.html"
+            },
+            {
+              "name": "150831.html",
+              "title": "確認申請書新様式に対応した住宅設計3次元CAD「Super Soft（スーパーソフト）」最新版をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150831.html"
+            },
+            {
+              "name": "150903.html",
+              "title": "リコージャパン様主催のフェアに出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150903.html"
+            },
+            {
+              "name": "150519.html",
+              "title": "SCSKからSuper Soft II事業 及び 住宅申請代行サービス事業の譲受に関するお知らせス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150519.html"
+            },
+            {
+              "name": "150623.html",
+              "title": "「リフォーム産業フェア2015」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150623.html"
+            },
+            {
+              "name": "150610.html",
+              "title": "建築材料・住宅設備総合展「KENTEN2015」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150610.html"
+            },
+            {
+              "name": "150327.html",
+              "title": "矢野システムフェア2015に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150327.html"
+            },
+            {
+              "name": "150227.html",
+              "title": "「RICOH THETA」との連携を実現した3Dモデルビューアアプリ「iALTA」最新版をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150227.html"
+            },
+            {
+              "name": "150220.html",
+              "title": "「ALTA 割付オプション」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150220.html"
+            },
+            {
+              "name": "150304.html",
+              "title": "2015年 ニヘイ春の木材・建材フェア | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150304.html"
+            },
+            {
+              "name": "150226.html",
+              "title": "2015 住設建材フェアinほっかいどう | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150226.html"
+            },
+            {
+              "name": "150209.html",
+              "title": "バーチャル展示場作成システム「ALTA for VR」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150209.html"
+            },
+            {
+              "name": "150204.html",
+              "title": "リコージャパン様主催のフェアに出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150204.html"
+            },
+            {
+              "name": "150303.html",
+              "title": "「第21回 建築・建材展2015」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150303.html"
+            },
+            {
+              "name": "150225.html",
+              "title": "「第5回 エコハウス＆エコビルディング EXPO」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150225.html"
+            },
+            {
+              "name": "150221.html",
+              "title": "「夢実現フェア 2015」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150221.html"
+            },
+            {
+              "name": "150117.html",
+              "title": "「新春アイラブホームフェア2015 in 福岡」に出展 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150117.html"
+            },
+            {
+              "name": "141112.html",
+              "title": "「Japan Home & Building Show 2014」に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/141112.html"
+            },
+            {
+              "name": "140820.html",
+              "title": "ALTA外構パースオプションをリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140820.html"
+            },
+            {
+              "name": "141002.html",
+              "title": "第44回建築総合展NAGOYA2014に出展します | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/141002.html"
+            },
+            {
+              "name": "140730.html",
+              "title": "住宅プレゼンシステム「ALTA（アルタ） Ver.4」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140730.html"
+            },
+            {
+              "name": "140901.html",
+              "title": "お客さまの心をつかむ住宅経営セミナー | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140901.html"
+            },
+            {
+              "name": "140819.html",
+              "title": "「3Dプリンターで作る住宅模型」無料体験セミナー | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140819.html"
+            },
+            {
+              "name": "140522.html",
+              "title": "住宅完成イメージをパノラマ表示するiPhone／iPadアプリ「iALTA」最新版をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140522.html"
+            },
+            {
+              "name": "140617.html",
+              "title": "リフォーム産業フェア2014 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140617.html"
+            },
+            {
+              "name": "140611.html",
+              "title": "建築材料・住宅設備総合展　KENTEN2014 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140611.html"
+            },
+            {
+              "name": "140424.html",
+              "title": "Walk in home の販売代理店契約について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140424.html"
+            },
+            {
+              "name": "140228.html",
+              "title": "「ALTA」及び「住宅模型出力サービス」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140228.html"
+            },
+            {
+              "name": "140305.html",
+              "title": "2014年 ニヘイ春の木材・建材フェア | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140305.html"
+            },
+            {
+              "name": "140226.html",
+              "title": "2014 住設建材フェアinほっかいどう | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140226.html"
+            },
+            {
+              "name": "140130.html",
+              "title": "「住宅模型出力サービス」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/140130.html"
+            },
+            {
+              "name": "131213.html",
+              "title": "第20回 建築・建材展2014 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/131213.html"
+            },
+            {
+              "name": "131023.html",
+              "title": "Japan Home & Building Show 2013 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/131023.html"
+            },
+            {
+              "name": "130801.html",
+              "title": "住宅完成イメージをパノラマ表示するiPadアプリ「iALTA」をリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/130801.html"
+            },
+            {
+              "name": "130710.html",
+              "title": "住宅プレゼンシステム「ALTA（アルタ）」新バージョンをリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/130710.html"
+            },
+            {
+              "name": "130123.html",
+              "title": "住宅用 企画・プレゼンシステム「ALTA（アルタ）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/130123.html"
+            },
+            {
+              "name": "121106.html",
+              "title": "住宅用 企画・プレゼンシステム「ALTA（アルタ）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/121106.html"
+            },
+            {
+              "name": "120731.html",
+              "title": "PocketMyHome サービス終了のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/120731.html"
+            },
+            {
+              "name": "120702.html",
+              "title": "住宅用 企画・プレゼンシステム「ALTA（アルタ）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/120702.html"
+            },
+            {
+              "name": "120625.html",
+              "title": "土地活用事業化支援システム 「ROOK（ルーク）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/120625.html"
+            },
+            {
+              "name": "120314.html",
+              "title": "住宅用 企画・プレゼンシステム「ALTA（アルタ）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/120314.html"
+            },
+            {
+              "name": "120203.html",
+              "title": "手書きの間取り図をJw_cad形式の図面に変換する「Digital Sketch DRAFT」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/120203.html"
+            },
+            {
+              "name": "111020.html",
+              "title": "住宅用 企画・プレゼンシステム「ALTA（アルタ）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/111020.html"
+            },
+            {
+              "name": "110815.html",
+              "title": "「建築3Dパース検定」サポート企業へ登録 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/110815.html"
+            },
+            {
+              "name": "110601.html",
+              "title": "住宅用 企画・プレゼンシステム「ALTA（アルタ）」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/110601.html"
+            },
+            {
+              "name": "110218.html",
+              "title": "「住宅模型出力サービス」記事掲載のお知らせ：北海道住宅通信2/10号 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/110218.html"
+            },
+            {
+              "name": "110131.html",
+              "title": "コンピュータシステム研究所とスーパーソフトウェアが業務提携 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/110131.html"
+            },
+            {
+              "name": "101013.html",
+              "title": "「住宅履歴情報サービス機関」の業務を開始 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/101013.html"
+            },
+            {
+              "name": "100517.html",
+              "title": "コンピュータシステム研究所と丸紅建材が業務提携 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/100517.html"
+            },
+            {
+              "name": "100428.html",
+              "title": "住宅履歴情報管理システム「House Library」新バージョンリリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/100428.html"
+            },
+            {
+              "name": "100125.html",
+              "title": "福祉住環境専用プレゼンシステム「Care House Planner ver.7」リリース | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/100125.html"
+            },
+            {
+              "name": "191101_form.html",
+              "title": "お問い合わせページの入力方法 | KIZUKURI・KIZUKURI2×4「ご紹介キャンペーン」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/191101_form.html"
+            },
+            {
+              "name": "150307.html",
+              "title": "「ALTA for VR」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/150307.html"
+            },
+            {
+              "name": "120524.html",
+              "title": "北海道銀行発行「調査ニュース」記事掲載のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/news/120524.html"
+            }
+          ]
+        },
+        {
+          "name": "products",
+          "title": "製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/products/index.html",
+          "children": [
+            {
+              "name": "alta",
+              "title": "住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/alta/",
+              "children": [
+                {
+                  "name": "edw.html",
+                  "title": "AIスケッチ EDW連携 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/edw.html"
+                },
+                {
+                  "name": "manga.html",
+                  "title": "活用マンガ | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/manga.html"
+                },
+                {
+                  "name": "casestudy11.html",
+                  "title": "導入事例 ラシクデザイン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy11.html"
+                },
+                {
+                  "name": "casestudy10.html",
+                  "title": "導入事例 カメヤグローバル | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy10.html"
+                },
+                {
+                  "name": "casestudy09.html",
+                  "title": "導入事例 樹の里ホーム | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy09.html"
+                },
+                {
+                  "name": "casestudy07.html",
+                  "title": "導入事例 T-Style | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy07.html"
+                },
+                {
+                  "name": "casestudy06.html",
+                  "title": "導入事例 シゲタ | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy06.html"
+                },
+                {
+                  "name": "casestudy04.html",
+                  "title": "導入事例 アットホームおおたに | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy04.html"
+                },
+                {
+                  "name": "casestudy03.html",
+                  "title": "導入事例 司建設 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy03.html"
+                },
+                {
+                  "name": "casestudy02.html",
+                  "title": "導入事例 シリウス | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy02.html"
+                },
+                {
+                  "name": "casestudy01.html",
+                  "title": "導入事例 耕和住宅 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy01.html"
+                },
+                {
+                  "name": "planning.html",
+                  "title": "プランニング | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/planning.html"
+                },
+                {
+                  "name": "presen.html",
+                  "title": "プレゼン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/presen.html"
+                },
+                {
+                  "name": "vr_alta.html",
+                  "title": "VRプレゼン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/vr_alta.html"
+                },
+                {
+                  "name": "estimate.html",
+                  "title": "積算・見積 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/estimate.html"
+                },
+                {
+                  "name": "draft.html",
+                  "title": "製図・図面／CAD | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/draft.html"
+                },
+                {
+                  "name": "saving.html",
+                  "title": "外皮性能 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/saving.html"
+                },
+                {
+                  "name": "sample.html",
+                  "title": "出力サンプル（パース、図面等） | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/sample.html"
+                },
+                {
+                  "name": "casestudy.html",
+                  "title": "導入事例 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "保守・サポート | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/support.html"
+                },
+                {
+                  "name": "vr.html",
+                  "title": "実寸大のVRプレゼン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/vr.html"
+                },
+                {
+                  "name": "smart_sekisan2.html",
+                  "title": "スマート積算「スマ積サービス」 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/smart_sekisan2.html"
+                },
+                {
+                  "name": "ialta.html",
+                  "title": "360°パノラマVR「iALTA」 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/ialta.html"
+                },
+                {
+                  "name": "reform.html",
+                  "title": "リフォーム・リノベーション プレゼン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/reform.html"
+                },
+                {
+                  "name": "vr_mini.html",
+                  "title": "ルームスケールVRで住宅プレゼン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/vr_mini.html"
+                },
+                {
+                  "name": "gyroeye.html",
+                  "title": "スマホで手軽にVRプレゼン | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/gyroeye.html"
+                },
+                {
+                  "name": "casestudy08.html",
+                  "title": "導入事例 アイランド | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy08.html"
+                },
+                {
+                  "name": "casestudy05.html",
+                  "title": "導入事例 中村建設 | 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta/casestudy05.html"
+                }
+              ]
+            },
+            {
+              "name": "vr",
+              "title": "VR製品ラインナップ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/vr/index.html"
+            },
+            {
+              "name": "kizukuri",
+              "children": [
+                {
+                  "name": "event_200601.html",
+                  "title": "バージョンアップ+無料Web研修セット | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/event_200601.html"
+                },
+                {
+                  "name": "event_200630.html",
+                  "title": "KIZUKURI Web研修（初級編） | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/event_200630.html"
+                },
+                {
+                  "name": "price.html",
+                  "title": "価格・購入 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/price.html"
+                },
+                {
+                  "name": "media.html",
+                  "title": "メディア掲載 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/media.html"
+                },
+                {
+                  "name": "event.html",
+                  "title": "イベント情報 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/event.html"
+                },
+                {
+                  "name": "zairai.html",
+                  "title": "軸組工法 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/zairai.html"
+                },
+                {
+                  "name": "2x4.html",
+                  "title": "枠組壁工法 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/2x4.html"
+                },
+                {
+                  "name": "movie.html",
+                  "title": "説明動画 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/movie.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "ダウンロード | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/spec.html"
+                },
+                {
+                  "name": "inquiry.html",
+                  "title": "動作環境 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/inquiry.html"
+                },
+                {
+                  "name": "event_200601_1.html",
+                  "title": "KIZUKURI Web研修（再入門編） | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/event_200601_1.html"
+                },
+                {
+                  "name": "event_200401.html",
+                  "title": "KIZUKURI Web研修（初級編） | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/event_200401.html"
+                },
+                {
+                  "name": "sn.html",
+                  "title": "シリアル番号の確認方法 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス |",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/sn.html"
+                },
+                {
+                  "name": "zairai_77.html",
+                  "title": "KIZUKURI Ver7.7 の新機能 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/zairai_77.html"
+                },
+                {
+                  "name": "zairai_76.html",
+                  "title": "KIZUKURI Ver7.6 の新機能 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/zairai_76.html"
+                },
+                {
+                  "name": "zairai_75.html",
+                  "title": "KIZUKURI Ver7.5 の新機能 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/zairai_75.html"
+                },
+                {
+                  "name": "2x4_55.html",
+                  "title": "KIZUKURI 2x4 Ver5.5の新機能 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/2x4_55.html"
+                },
+                {
+                  "name": "2x4_50.html",
+                  "title": "KIZUKURI 2x4 Ver5.0 の新機能 | 木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/kizukuri/2x4_50.html"
+                }
+              ],
+              "title": "木造建築物構造計算ソフト KIZUKURI | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/kizukuri/index.html"
+            },
+            {
+              "name": "alta_hokkaido",
+              "children": [
+                {
+                  "name": "media.html",
+                  "title": "メディア掲載 | 北海道版 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_hokkaido/media.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "保守・サポート | 北海道版 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_hokkaido/support.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 北海道版 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_hokkaido/spec.html"
+                }
+              ],
+              "title": "北海道版 住宅プレゼンシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/alta_hokkaido/index.html"
+            },
+            {
+              "name": "alta_vr",
+              "title": "バーチャル住宅展示場作成システム ALTA for VR（アルタ フォー ブイアール） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/alta_vr/index.html",
+              "children": [
+                {
+                  "name": "media.html",
+                  "title": "メディア掲載 | バーチャル住宅展示場作成システム ALTA for VR（アルタ フォー ブイアール） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_vr/media.html"
+                },
+                {
+                  "name": "case_study.html",
+                  "title": "活用事例 | バーチャル住宅展示場作成システム ALTA for VR（アルタ フォー ブイアール） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_vr/case_study.html"
+                },
+                {
+                  "name": "showroom.html",
+                  "title": "ショールームのご案内 | バーチャル住宅展示場作成システム ALTA for VR（アルタ フォー ブイアール） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_vr/showroom.html"
+                },
+                {
+                  "name": "vr.html",
+                  "title": "活用メリット | バーチャル住宅展示場作成システム ALTA for VR（アルタ フォー ブイアール） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_vr/vr.html"
+                }
+              ]
+            },
+            {
+              "name": "alta_precut",
+              "title": "プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/alta_precut/index.html",
+              "children": [
+                {
+                  "name": "media.html",
+                  "title": "メディア掲載 | プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_precut/media.html"
+                },
+                {
+                  "name": "flow.html",
+                  "title": "操作の流れ | プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_precut/flow.html"
+                },
+                {
+                  "name": "function.html",
+                  "title": "主な機能 | プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_precut/function.html"
+                },
+                {
+                  "name": "sample.html",
+                  "title": "出力サンプル | プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_precut/sample.html"
+                },
+                {
+                  "name": "casestudy.html",
+                  "title": "導入事例 | プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_precut/casestudy.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "保守・サポート | プレカット工場向け自動木拾いシステム ALTA（アルタ） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_precut/support.html"
+                }
+              ]
+            },
+            {
+              "name": "alta_kenzai",
+              "title": "建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/index.html",
+              "children": [
+                {
+                  "name": "media.html",
+                  "title": "メディア掲載 | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/media.html"
+                },
+                {
+                  "name": "function.html",
+                  "title": "プレゼン支援 | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/function.html"
+                },
+                {
+                  "name": "function2.html",
+                  "title": "積算・見積支援 | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/function2.html"
+                },
+                {
+                  "name": "layout.html",
+                  "title": "サイディング・ボード割付 | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/layout.html"
+                },
+                {
+                  "name": "sample.html",
+                  "title": "出力サンプル | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/sample.html"
+                },
+                {
+                  "name": "casestudy.html",
+                  "title": "導入事例 | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/casestudy.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "サポート | 建材販売店向け業務支援システム ALTA（アルタ）for ビルダー支援 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/alta_kenzai/support.html"
+                }
+              ]
+            },
+            {
+              "name": "supersoft",
+              "title": "住宅設計3次元CADシステム ALTA SS | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/supersoft/",
+              "children": [
+                {
+                  "name": "planning.html",
+                  "title": "プランニング | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/planning.html"
+                },
+                {
+                  "name": "presen.html",
+                  "title": "プレゼン | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/presen.html"
+                },
+                {
+                  "name": "draft.html",
+                  "title": "実施設計・構造設計 | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/draft.html"
+                },
+                {
+                  "name": "application.html",
+                  "title": "確認申請・長期優良住宅・性能表示・外皮計算 | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/application.html"
+                },
+                {
+                  "name": "sample.html",
+                  "title": "出力サンプル（パース・図面） | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/sample.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/spec.html"
+                },
+                {
+                  "name": "support.html",
+                  "title": "会員専用ページのご案内 | 住宅設計3次元CADシステム ALTA SS（旧：SuperSoftII スーパーソフト） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/supersoft/support.html"
+                }
+              ]
+            },
+            {
+              "name": "ov",
+              "title": "賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/ov/index.html",
+              "children": [
+                {
+                  "name": "scene.html",
+                  "title": "活用シーン | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/scene.html"
+                },
+                {
+                  "name": "function.html",
+                  "title": "プラン入力 | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/function.html"
+                },
+                {
+                  "name": "function2.html",
+                  "title": "収支計算シミュレーション | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/function2.html"
+                },
+                {
+                  "name": "sample.html",
+                  "title": "出力帳票サンプル | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/sample.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/spec.html"
+                },
+                {
+                  "name": "scene1.html",
+                  "title": "収支計画の活用シーン | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/scene1.html"
+                },
+                {
+                  "name": "scene2.html",
+                  "title": "プレゼンテーション時の活用シーン | 賃貸物件収支計算システム オーナーズVision10 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/ov/scene2.html"
+                }
+              ]
+            },
+            {
+              "name": "vr_mini",
+              "title": "住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/vr_mini/",
+              "children": [
+                {
+                  "name": "casestudy.html",
+                  "title": "導入事例 | 住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/vr_mini/casestudy.html"
+                },
+                {
+                  "name": "casestudy01.html",
+                  "title": "導入事例 アイランド | 住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/vr_mini/casestudy01.html"
+                },
+                {
+                  "name": "scene.html",
+                  "title": "活用シーン | 住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/vr_mini/scene.html"
+                },
+                {
+                  "name": "hardware.html",
+                  "title": "ハードウェア | 住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/vr_mini/hardware.html"
+                },
+                {
+                  "name": "vr.html",
+                  "title": "関連VR商品 | 住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/vr_mini/vr.html"
+                },
+                {
+                  "name": "casestudy02.html",
+                  "title": "導入事例 オムニ技研 | 住宅用ルームスケールVRシステム「ALTA VR-Mini」 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/vr_mini/casestudy02.html"
+                }
+              ]
+            },
+            {
+              "name": "business.html",
+              "title": "業種から探す | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/business.html"
+            },
+            {
+              "name": "service.html",
+              "title": "業務内容から探す | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/service.html"
+            },
+            {
+              "name": "solution.html",
+              "title": "お困り事から探す | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution.html"
+            },
+            {
+              "name": "gyroeye",
+              "title": "住宅用ポータブルVRシステム GyroEye for ALTA | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/gyroeye/index.html",
+              "children": [
+                {
+                  "name": "app.html",
+                  "title": "無料アプリ | 住宅用ポータブルVRシステム GyroEye for ALTA | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/gyroeye/app.html"
+                },
+                {
+                  "name": "vr.html",
+                  "title": "関連VR商品 | 住宅用ポータブルVRシステム GyroEye for ALTA | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/gyroeye/vr.html"
+                }
+              ]
+            },
+            {
+              "name": "rook",
+              "title": "土地活用事業化支援システム ROOK2（ルーク） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/rook/"
+            },
+            {
+              "name": "sv",
+              "title": "汎用3次元CADシステム　設計Vision／StageCAD | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/sv/index.html",
+              "children": [
+                {
+                  "name": "price.html",
+                  "title": "価格 | 汎用3次元CADシステム 設計Vision／StageCAD | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/sv/price.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 汎用3次元CADシステム　設計Vision／StageCAD | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/products/sv/spec.html"
+                }
+              ]
+            },
+            {
+              "name": "mv",
+              "title": "汎用見積システム 見積Vision（ビジョン） | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/mv/index.html"
+            },
+            {
+              "name": "alta_rf",
+              "title": "ALTA リフォーム提案力強化パッケージ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/alta_rf/index.html"
+            },
+            {
+              "name": "solution05.html",
+              "title": "パース作成に時間がかかりすぎる | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution05.html"
+            },
+            {
+              "name": "solution03.html",
+              "title": "リフォーム提案に力を入れたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution03.html"
+            },
+            {
+              "name": "solution07.html",
+              "title": "CAD担当者の負担を軽減したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution07.html"
+            },
+            {
+              "name": "solution02.html",
+              "title": "VR（バーチャル・リアリティ）を住宅プレゼンに活用したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution02.html"
+            },
+            {
+              "name": "solution06.html",
+              "title": "3Dでわかりやすくプレゼンしたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution06.html"
+            },
+            {
+              "name": "solution08.html",
+              "title": "RCや集合住宅のパースを作りたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution08.html"
+            },
+            {
+              "name": "solution04.html",
+              "title": "iPadやiPhoneを住宅営業に活用したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution04.html"
+            },
+            {
+              "name": "solution19.html",
+              "title": "住宅展示場の維持コストを減らしたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution19.html"
+            },
+            {
+              "name": "solution17.html",
+              "title": "吹き抜けやスキップフロアのイメージをわかりやすく伝えたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution17.html"
+            },
+            {
+              "name": "solution13.html",
+              "title": "外皮計算を簡単に行いたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution13.html"
+            },
+            {
+              "name": "solution16.html",
+              "title": "住宅の構造計算を簡単に行いたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution16.html"
+            },
+            {
+              "name": "solution14.html",
+              "title": "作図にかかる時間を短縮したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution14.html"
+            },
+            {
+              "name": "solution15.html",
+              "title": "確認申請や長期優良住宅申請図書の作成を効率的に行いたい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution15.html"
+            },
+            {
+              "name": "solution09.html",
+              "title": "木拾い積算をスピード化したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution09.html"
+            },
+            {
+              "name": "solution10.html",
+              "title": "割り付け積算を効率化したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution10.html"
+            },
+            {
+              "name": "solution11.html",
+              "title": "見積の作成時間を短縮したい | 製品一覧 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/products/solution11.html"
+            }
+          ]
+        },
+        {
+          "name": "support",
+          "title": "サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/support/index.html",
+          "children": [
+            {
+              "name": "topics",
+              "children": [
+                {
+                  "name": "200616.html",
+                  "title": "「Windows10 May 2020 Update（Ver2004）」への建築関連製品の対応について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/200616.html"
+                },
+                {
+                  "name": "200416.html",
+                  "title": "新型コロナウイルス感染防止対策に伴う建築コールセンター対応のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/200416.html"
+                },
+                {
+                  "name": "200226.html",
+                  "title": "「Windows 7」のサポート終了に伴う建築製品のサポート対応について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/200226.html"
+                },
+                {
+                  "name": "190703.html",
+                  "title": "サーバーメンテナンスに伴うサービス一時停止のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/190703.html"
+                },
+                {
+                  "name": "190419.html",
+                  "title": "新元号に伴う弊社建築製品の対応について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/190419.html"
+                },
+                {
+                  "name": "190402.html",
+                  "title": "旧オーナーズVision サポート終了のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/190402.html"
+                },
+                {
+                  "name": "181219.html",
+                  "title": "VST、建築Vision サポート終了のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/181219.html"
+                },
+                {
+                  "name": "180727.html",
+                  "title": "建築コールセンター夏期休業のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/180727.html"
+                },
+                {
+                  "name": "180525.html",
+                  "title": "建築コールセンター営業時間変更のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/180525.html"
+                },
+                {
+                  "name": "171110.html",
+                  "title": "建築Vision サービス終了及び後継製品のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/171110.html"
+                },
+                {
+                  "name": "170410.html",
+                  "title": "建築製品の「Windows 10 Creators Update」への対応状況について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/170410.html"
+                },
+                {
+                  "name": "160725.html",
+                  "title": "建築コールセンター夏期休業のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/160725.html"
+                },
+                {
+                  "name": "160711.html",
+                  "title": "サーバーメンテナンスに伴うサービス一時停止のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/160711.html"
+                },
+                {
+                  "name": "160613.html",
+                  "title": "建築コールセンター一時のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/160613.html"
+                },
+                {
+                  "name": "160519.html",
+                  "title": "建築商品のWindows10対応状況について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/160519.html"
+                },
+                {
+                  "name": "150528.html",
+                  "title": "社内行事に伴う建築コールセンター営業時間短縮のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/150528.html"
+                },
+                {
+                  "name": "141215.html",
+                  "title": "建築コールセンター年末年始休暇のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/141215.html"
+                },
+                {
+                  "name": "140602.html",
+                  "title": "建築コールセンター一時休止のご案内 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/140602.html"
+                },
+                {
+                  "name": "131210.html",
+                  "title": "建築コールセンター年末年始休暇のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/131210.html"
+                },
+                {
+                  "name": "130301.html",
+                  "title": "建築商品のWindows8対応状況について | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/130301.html"
+                },
+                {
+                  "name": "120731.html",
+                  "title": "旧商品 保守サポート終了のお知らせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/topics/120731.html"
+                }
+              ],
+              "title": "新着情報 | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/support/topics/index.html"
+            },
+            {
+              "name": "alta",
+              "children": [
+                {
+                  "name": "door.html",
+                  "title": "建具 | ALTA ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/alta/door.html"
+                },
+                {
+                  "name": "parts.html",
+                  "title": "3D部品 | ALTA ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/alta/parts.html"
+                },
+                {
+                  "name": "texture.html",
+                  "title": "テクスチャ | ALTA ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/alta/texture.html"
+                },
+                {
+                  "name": "system.html",
+                  "title": "最新システム | ALTA ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/alta/system.html"
+                },
+                {
+                  "name": "other.html",
+                  "title": "その他 | ALTA ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/alta/other.html"
+                }
+              ],
+              "title": "ALTA ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/support/alta/index.html"
+            },
+            {
+              "name": "kizukuri",
+              "children": [
+                {
+                  "name": "2x4.html",
+                  "title": "KIZUKURI2×4 システムダウンロード | 構造計算ソフト KIZUKURI | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/kizukuri/2x4.html"
+                },
+                {
+                  "name": "system.html",
+                  "title": "KIZUKURI システムダウンロード | 構造計算ソフト KIZUKURI | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/kizukuri/system.html"
+                },
+                {
+                  "name": "spec.html",
+                  "title": "動作環境 | 構造計算ソフト KIZUKURI | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/kizukuri/spec.html"
+                }
+              ],
+              "title": "構造計算ソフト KIZUKURI | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/archi/support/kizukuri/index.html"
+            },
+            {
+              "name": "download",
+              "children": [
+                {
+                  "name": "supersoft.html",
+                  "title": "ALTA SS（旧：Super Soft） | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/supersoft.html"
+                },
+                {
+                  "name": "other_system.html",
+                  "title": "その他製品 ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/other_system.html"
+                },
+                {
+                  "name": "maintenance.html",
+                  "title": "リモートサポート関連 ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/maintenance.html"
+                },
+                {
+                  "name": "hasp.html",
+                  "title": "プロテクトドライバ ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/hasp.html"
+                },
+                {
+                  "name": "other.html",
+                  "title": "その他 ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/other.html"
+                },
+                {
+                  "name": "sc.html",
+                  "title": "StageCAD ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/sc.html"
+                },
+                {
+                  "name": "sv.html",
+                  "title": "設計Vision ダウンロード | サポート | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/archi/support/download/sv.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "demo",
+          "title": "訪問デモ依頼 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/demo/index.php"
+        },
+        {
+          "name": "request",
+          "title": "資料請求 | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/request/index.php"
+        },
+        {
+          "name": "download",
+          "title": "カタログダウンロード | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/download/index.php"
+        },
+        {
+          "name": "inquiry",
+          "title": "お問い合わせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/inquiry/index.php"
+        },
+        {
+          "name": "inquiry2",
+          "title": "お問い合わせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/inquiry2/index.php"
+        },
+        {
+          "name": "inquiry6",
+          "title": "設計Vision3・StageCAD・見積Vision お問い合わせ | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/inquiry6/index.php"
+        },
+        {
+          "name": "vr",
+          "title": "ショールーム見学お申し込み | 建築事業者向けソフトウェア＆サービス | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/archi/vr/index.php"
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "title": "株式会社コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/other/index.html",
+      "children": [
+        {
+          "name": "product",
+          "title": "製品・サービス一覧 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/other/product/index.html",
+          "children": [
+            {
+              "name": "ares",
+              "title": "ARES（アレス）|低価格で高機能な互換CAD",
+              "url": "https://www.cstnet.co.jp/other/product/ares/index.html",
+              "children": [
+                {
+                  "name": "inquiry.html",
+                  "title": "お問い合わせ | ARES（アレス）| 低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/inquiry.html"
+                },
+                {
+                  "name": "function.html",
+                  "title": "機能詳細|ARES（アレス）|低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/function.html"
+                },
+                {
+                  "name": "new.html",
+                  "title": "ARES2019の新機能 | ARES（アレス）| 低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/new.html"
+                },
+                {
+                  "name": "compare.html",
+                  "title": "機能比較|ARES（アレス）|低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/compare.html"
+                },
+                {
+                  "name": "faq.html",
+                  "title": "よくある質問 | ARES（アレス）| 低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/faq.html"
+                },
+                {
+                  "name": "price.html",
+                  "title": "価格表|ARES（アレス）|低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/price.html"
+                },
+                {
+                  "name": "trdl",
+                  "title": "ARES体験版ダウンロード | ARES | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/trdl/index.php"
+                },
+                {
+                  "name": "request",
+                  "title": "資料請求 | ARES | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/request/index.php"
+                },
+                {
+                  "name": "download",
+                  "title": "ARES カタログダウンロード | ソフトウェア＆サービス | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/download/index.php"
+                },
+                {
+                  "name": "inquiry",
+                  "title": "お問い合わせ | ARESお問合わせ | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/inquiry/index.php"
+                },
+                {
+                  "name": "inquiry3_new",
+                  "title": "お問い合わせ（トラブル・不具合） | ARESお問合わせ | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/inquiry3_new/index.php"
+                },
+                {
+                  "name": "inquiry4",
+                  "title": "お問い合わせ（サブスクリプション更新） | ARESお問合わせ | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/inquiry4/index.php"
+                },
+                {
+                  "name": "sn.html",
+                  "title": "シリアル番号の確認方法 | ARES（アレス）| 低価格で高機能な互換CAD",
+                  "url": "https://www.cstnet.co.jp/other/product/ares/sn.html"
+                }
+              ]
+            },
+            {
+              "name": "argossaviour",
+              "title": "3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/product/argossaviour/index.html",
+              "children": [
+                {
+                  "name": "inquiry",
+                  "title": "お問い合わせ | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/inquiry/index.php"
+                },
+                {
+                  "name": "function.html",
+                  "title": "「Argos Saviour」でできること | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/function.html"
+                },
+                {
+                  "name": "scene.html",
+                  "title": "活用シーン | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/scene.html"
+                },
+                {
+                  "name": "faq.html",
+                  "title": "よくある質問 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/faq.html"
+                },
+                {
+                  "name": "equipment.html",
+                  "title": "システム構成 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/equipment.html"
+                },
+                {
+                  "name": "tailgating.html",
+                  "title": "共連れ防止 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/tailgating.html"
+                },
+                {
+                  "name": "care1.html",
+                  "title": "福祉施設向け 無断外出検知 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/care1.html"
+                },
+                {
+                  "name": "danger.html",
+                  "title": "製造業向け 危険エリア侵入検知 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/danger.html"
+                },
+                {
+                  "name": "invert.html",
+                  "title": "製造業向け 転倒・意識不明検知 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/invert.html"
+                },
+                {
+                  "name": "food.html",
+                  "title": "食品工場向け 手指未消毒防止 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/food.html"
+                },
+                {
+                  "name": "construction1.html",
+                  "title": "建設業向け 資材・機材盗難防止 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/construction1.html"
+                },
+                {
+                  "name": "construction2.html",
+                  "title": "建設業向け 建設現場監視 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/construction2.html"
+                },
+                {
+                  "name": "retail.html",
+                  "title": "小売業向け 店舗分析ソリューション | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/retail.html"
+                },
+                {
+                  "name": "care2.html",
+                  "title": "福祉施設向け 不審者侵入検知 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/care2.html"
+                },
+                {
+                  "name": "medical1.html",
+                  "title": "放射性同位元素保有施設向け 放射線源セキュリティ | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/medical1.html"
+                },
+                {
+                  "name": "medical2.html",
+                  "title": "医療機関向け 薬品庫・新生児室セキュリティ | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/medical2.html"
+                },
+                {
+                  "name": "health.html",
+                  "title": "医療機関向け 衛生管理 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/health.html"
+                },
+                {
+                  "name": "apartment.html",
+                  "title": "マンションセキュリティ | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/argossaviour/apartment.html"
+                }
+              ]
+            },
+            {
+              "name": "bimcimsap",
+              "children": [
+                {
+                  "name": "cim.html",
+                  "title": "BIM/CIM業務支援| コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/bimcimsap/cim.html"
+                },
+                {
+                  "name": "bim.html",
+                  "title": "BIM/CIM業務支援| コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/bimcimsap/bim.html"
+                },
+                {
+                  "name": "drow.html",
+                  "title": "BIM/CIM業務支援| コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/bimcimsap/drow.html"
+                }
+              ],
+              "title": "BIM/CIM業務支援| コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/product/bimcimsap/index.html"
+            },
+            {
+              "name": "bimcim",
+              "title": "BIM/CIM総合コミュニケーションツール BIM/CIM Ark Series | その他 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/product/bimcim/index.html",
+              "children": [
+                {
+                  "name": "function.html",
+                  "title": "BIM/CIM総合コミュニケーションツール BIM/CIM Ark Series | その他 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/bimcim/function.html"
+                },
+                {
+                  "name": "movie.html",
+                  "title": "BIM/CIM総合コミュニケーションツール BIM/CIM Ark Series | その他 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/bimcim/movie.html"
+                },
+                {
+                  "name": "trial.html",
+                  "title": "BIM/CIM総合コミュニケーションツール BIM/CIM Ark Series | その他 | コンピュータシステム研究所",
+                  "url": "https://www.cstnet.co.jp/other/product/bimcim/trial.html"
+                }
+              ]
+            },
+            {
+              "name": "rat",
+              "title": "Autodesk Revit コマンド集 Revit Assist Tools | その他 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/product/rat/index.html"
+            }
+          ]
+        },
+        {
+          "name": "topics",
+          "children": [
+            {
+              "name": "200303.html",
+              "title": "「SECURITY SHOW 2020（セキュリティショー 2020）」に出展します | 製品・サービス一覧 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/topics/200303.html"
+            },
+            {
+              "name": "190412.html",
+              "title": "「2019 国際医用画像総合展」に出展します | 製品・サービス一覧 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/topics/190412.html"
+            },
+            {
+              "name": "190305.html",
+              "title": "「SECURITY SHOW 2019」に出展します | 製品・サービス一覧 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/other/topics/190305.html"
+            }
+          ]
+        },
+        {
+          "name": "inquiry",
+          "title": "お問い合わせ | お問合わせ | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/other/inquiry/index.php"
+        },
+        {
+          "name": "request_ags",
+          "title": "資料請求 | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/other/request_ags/index.php"
+        },
+        {
+          "name": "download_ags",
+          "title": "カタログダウンロード | 3Dセンシング ソリューション「Argos Saviour（アルゴスセーバー）」 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/other/download_ags/index.php"
+        }
+      ]
+    },
+    {
+      "name": "support",
+      "title": "サポート | 株式会社コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/support/index.html",
+      "children": [
+        {
+          "name": "faq",
+          "title": "株式会社コンピュータシステム研究所　Q&Aオンラインサポート",
+          "url": "https://www.cstnet.co.jp/support/faq/",
+          "children": [
+            {
+              "name": "send",
+              "title": "株式会社コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/support/faq/send/"
+            }
+          ]
+        },
+        {
+          "name": "190726.html",
+          "title": "コールセンター 夏期休業のお知らせ | サポート | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/support/190726.html"
+        },
+        {
+          "name": "190415.html",
+          "title": "コールセンター ゴールデンウィーク休業のお知らせ | サポート | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/support/190415.html"
+        },
+        {
+          "name": "181210.html",
+          "title": "コールセンター年末年始休業のお知らせ | サポート | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/support/181210.html"
+        },
+        {
+          "name": "topics",
+          "children": [
+            {
+              "name": "15win10.html",
+              "title": "サポート情報 | コンピュータシステム研究所",
+              "url": "https://www.cstnet.co.jp/support/topics/15win10.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "title": "企業情報 | 株式会社コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/company/index.html",
+      "children": [
+        {
+          "name": "outline.html",
+          "title": "会社概要 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/outline.html"
+        },
+        {
+          "name": "philosophy.html",
+          "title": "経営理念 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/philosophy.html"
+        },
+        {
+          "name": "message.html",
+          "title": "経営理念 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/message.html"
+        },
+        {
+          "name": "branch.html",
+          "title": "事業所一覧 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/branch.html"
+        },
+        {
+          "name": "history.html",
+          "title": "沿革・受賞・採択歴 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/history.html"
+        },
+        {
+          "name": "csr.html",
+          "title": "社会貢献活動 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/csr.html"
+        },
+        {
+          "name": "patent.html",
+          "title": "取得特許 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/patent.html"
+        },
+        {
+          "name": "actionplan.html",
+          "title": "一般事業主行動計画 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/actionplan.html"
+        },
+        {
+          "name": "inquiry",
+          "title": "お問い合わせ | 企業情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/inquiry/index.php"
+        },
+        {
+          "name": "challenge25.html",
+          "title": "「Fun to Share」に賛同 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/challenge25.html"
+        },
+        {
+          "name": "recruit.html",
+          "title": "採用情報 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/recruit.html"
+        },
+        {
+          "name": "recruit1.html",
+          "title": "採用情報 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/recruit1.html"
+        },
+        {
+          "name": "recruit2.html",
+          "title": "採用情報 | 企業情報 | 株式会社コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/company/recruit2.html"
+        }
+      ]
+    },
+    {
+      "name": "recruit",
+      "title": "採用情報 | 株式会社 コンピュータシステム研究所 | コンピュータシステム研究所の採用情報サイトです",
+      "url": "https://www.cstnet.co.jp/recruit"
+    },
+    {
+      "name": "inquiry",
+      "title": "お問い合わせ | コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/inquiry/index.html"
+    },
+    {
+      "name": "topics",
+      "children": [
+        {
+          "name": "200302.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/200302.html"
+        },
+        {
+          "name": "200513.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/200513.html"
+        },
+        {
+          "name": "200408.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/200408.html"
+        },
+        {
+          "name": "200301.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/200301.html"
+        },
+        {
+          "name": "taxinfo.html",
+          "title": "CST製品導入で税制優遇 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/taxinfo.html"
+        },
+        {
+          "name": "171222.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/171222.html"
+        },
+        {
+          "name": "121121.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/121121.html"
+        },
+        {
+          "name": "191209.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/191209.html"
+        },
+        {
+          "name": "200203.html",
+          "title": "伊藤忠建材と建材流通界の生産性向上に向け業務提携 | 新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/200203.html"
+        },
+        {
+          "name": "191015.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/191015.html"
+        },
+        {
+          "name": "190913.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190913.html"
+        },
+        {
+          "name": "190829.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190829.html"
+        },
+        {
+          "name": "180201.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180201.html"
+        },
+        {
+          "name": "170901.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/170901.html"
+        },
+        {
+          "name": "160901gsa.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160901gsa.html"
+        },
+        {
+          "name": "190909.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190909.html"
+        },
+        {
+          "name": "190726.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190726.html"
+        },
+        {
+          "name": "190415.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190415.html"
+        },
+        {
+          "name": "190401cpc.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190401cpc.html"
+        },
+        {
+          "name": "190401gbj.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190401gbj.html"
+        },
+        {
+          "name": "190301.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/190301.html"
+        },
+        {
+          "name": "181227.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/181227.html"
+        },
+        {
+          "name": "181210.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/181210.html"
+        },
+        {
+          "name": "180906.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180906.html"
+        },
+        {
+          "name": "180903.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180903.html"
+        },
+        {
+          "name": "180723.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180723.html"
+        },
+        {
+          "name": "180724.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180724.html"
+        },
+        {
+          "name": "180718.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180718.html"
+        },
+        {
+          "name": "180709.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180709.html"
+        },
+        {
+          "name": "180619.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/180619.html"
+        },
+        {
+          "name": "171212.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/171212.html"
+        },
+        {
+          "name": "170724.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/170724.html"
+        },
+        {
+          "name": "170711.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/170711.html"
+        },
+        {
+          "name": "index_old.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/index_old.html"
+        },
+        {
+          "name": "161209.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/161209.html"
+        },
+        {
+          "name": "160726.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160726.html"
+        },
+        {
+          "name": "160415.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160415.html"
+        },
+        {
+          "name": "160901.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160901.html"
+        },
+        {
+          "name": "160701.html",
+          "title": "「Just One Solution Fes 」へ出展します。| コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160701.html"
+        },
+        {
+          "name": "160606.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160606.html"
+        },
+        {
+          "name": "160210.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160210.html"
+        },
+        {
+          "name": "160125.html",
+          "title": "新着情報| コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/160125.html"
+        },
+        {
+          "name": "151217.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/151217.html"
+        },
+        {
+          "name": "151210.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/151210.html"
+        },
+        {
+          "name": "151126.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/151126.html"
+        },
+        {
+          "name": "150728.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/150728.html"
+        },
+        {
+          "name": "150702.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/150702.html"
+        },
+        {
+          "name": "141210.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/141210.html"
+        },
+        {
+          "name": "140728.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/140728.html"
+        },
+        {
+          "name": "140224.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/140224.html"
+        },
+        {
+          "name": "131126.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/131126.html"
+        },
+        {
+          "name": "131101.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/131101.html"
+        },
+        {
+          "name": "131001.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/131001.html"
+        },
+        {
+          "name": "130730.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/130730.html"
+        },
+        {
+          "name": "130520.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/130520.html"
+        },
+        {
+          "name": "130304.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/130304.html"
+        },
+        {
+          "name": "121211.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/121211.html"
+        },
+        {
+          "name": "121203.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/121203.html"
+        },
+        {
+          "name": "120416.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/120416.html"
+        },
+        {
+          "name": "120326.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/120326.html"
+        },
+        {
+          "name": "111216.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/111216.html"
+        },
+        {
+          "name": "110419.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/110419.html"
+        },
+        {
+          "name": "110315.html",
+          "title": "新着情報 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/topics/110315.html"
+        }
+      ],
+      "title": "新着情報 | コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/topics/index.html"
+    },
+    {
+      "name": "about",
+      "children": [
+        {
+          "name": "sitepolicy.html",
+          "title": "サイトご利用条件 | コンピュータシステム研究所",
+          "url": "https://www.cstnet.co.jp/about/sitepolicy.html"
+        }
+      ]
+    },
+    {
+      "name": "privacy",
+      "title": "個人情報保護方針 | コンピュータシステム研究所",
+      "url": "https://www.cstnet.co.jp/privacy/index.html"
+    }
+  ]
 }

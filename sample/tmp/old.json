@@ -1,0 +1,108 @@
+{
+  "name": "/",
+  "title": "株式会社ベストブライダル採用情報サイトTOP | ベストブライダル採用情報",
+  "url": "https://www.bestbridal.co.jp/recruit/",
+  "children": [
+    {
+      "name": "concept",
+      "title": "CONCEPT| BEST BRIDAL OUR BUSINESS | ベストブライダル採用情報",
+      "url": "https://www.bestbridal.co.jp/recruit/concept/"
+    },
+    {
+      "name": "business",
+      "title": "BEST BRIDAL OUR BUSINESS | ベストブライダル採用情報",
+      "url": "https://www.bestbridal.co.jp/recruit/business/",
+      "children": [
+        {
+          "name": "field",
+          "title": "FIELD| BEST BRIDAL OUR BUSINESS | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/business/field/"
+        },
+        {
+          "name": "origin",
+          "title": "ORIGIN| BEST BRIDAL OUR BUSINESS | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/business/origin/"
+        }
+      ]
+    },
+    {
+      "name": "workstyle",
+      "title": "BEST BRIDAL WORK STYLE | ベストブライダル採用情報",
+      "url": "https://www.bestbridal.co.jp/recruit/workstyle/",
+      "children": [
+        {
+          "name": "01",
+          "title": "小山奏| BEST BRIDAL WORK STYLE | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/workstyle/01/"
+        },
+        {
+          "name": "02",
+          "title": "薦田祥子| BEST BRIDAL WORK STYLE | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/workstyle/02/"
+        },
+        {
+          "name": "03",
+          "title": "髙濵佑里子| BEST BRIDAL WORK STYLE | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/workstyle/03/"
+        },
+        {
+          "name": "talk",
+          "title": "同期対談| BEST BRIDAL WORK STYLE | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/workstyle/talk/"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "title": "BEST BRIDAL PERSON | ベストブライダル採用情報",
+      "url": "https://www.bestbridal.co.jp/recruit/person/",
+      "children": [
+        {
+          "name": "01",
+          "title": "松岡沙英 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/01/"
+        },
+        {
+          "name": "02",
+          "title": "石渡絵里 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/02/"
+        },
+        {
+          "name": "03",
+          "title": "花井智彦 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/03/"
+        },
+        {
+          "name": "04",
+          "title": "清水梨依子 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/04/"
+        },
+        {
+          "name": "05",
+          "title": "加藤竣也 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/05/"
+        },
+        {
+          "name": "06",
+          "title": "石川　総一郎 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/06/"
+        },
+        {
+          "name": "07",
+          "title": "安田勝太 | BEST BRIDAL PERSON | ベストブライダル採用情報",
+          "url": "https://www.bestbridal.co.jp/recruit/person/07/"
+        }
+      ]
+    },
+    {
+      "name": "new",
+      "title": "新卒採用情報 | BEST BRIDAL RECRUIT INFORMATION | ベストブライダル採用情報",
+      "url": "https://www.bestbridal.co.jp/recruit/new/"
+    },
+    {
+      "name": "career",
+      "title": "通年採用情報 | BEST BRIDAL RECRUIT INFORMATION | ベストブライダル採用情報",
+      "url": "https://www.bestbridal.co.jp/recruit/career/"
+    }
+  ]
+}

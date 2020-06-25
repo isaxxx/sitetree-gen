@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>株式会社コンピュータシステム研究所 様</title>
+    <title>新サイトマップ</title>
   </head>
   <body>
 <style>
@@ -373,6 +373,7 @@ that you don't need, and your sitemap layout will work perfectly. */
   .primaryNav > ul > li { max-width: 16.66%;  }
 }
 
+/*
 @media screen and (min-width: 84.5em) {
   .primaryNav > ul > li { max-width: 14.285%; }
 }
@@ -388,24 +389,12 @@ that you don't need, and your sitemap layout will work perfectly. */
 @media screen and (min-width: 119em) {
   .primaryNav > ul > li { max-width: 10%; }
 }
-
-/* custom */
-
-.is-disabled {
-  opacity: 0.5 !important;
-  pointer-events: none;
-}
-
-.primaryNav li a {
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
-}
+*/
 
 </style>
 <script>
 
-var url_delay = "./sitetree.json";
+var url_delay = "./new.json";
 
 var generateList = ($parent, json) => {
   if (json.children) {
@@ -414,22 +403,10 @@ var generateList = ($parent, json) => {
       var _json = json.children[i];
       var $li = document.createElement('li');
       var $a = document.createElement('a');
-      
-      if (_json.url) {
-        $a.setAttribute('href', _json.url);
-        $a.setAttribute('target', '_blank');
-      } else {
-        $a.setAttribute('href', '#');
-        $a.classList.add('is-disabled');
-      }
-
-      var $text = '';
-      if (_json.title) {
-        $text = document.createTextNode(_json.title);
-      } else {
-        $text = document.createTextNode(_json.name);
-      }
-
+      $a.setAttribute('href', _json.url);
+      $a.setAttribute('target', '_blank');
+      //var $text = document.createTextNode(_json.name + '：' + _json.title);
+      var $text = document.createTextNode(_json.title);
       $a.appendChild($text);
       $li.appendChild($a);
       $ul.appendChild($li);
@@ -447,23 +424,11 @@ var generateTopLevelList = ($parent, json) => {
     for (var i = 0; i < json.children.length; i++) {
       var _json = json.children[i];
       var $li = document.createElement('li');
-
       var $a = document.createElement('a');
-      if (_json.url) {
-        $a.setAttribute('href', _json.url);
-        $a.setAttribute('target', '_blank');
-      } else {
-        $a.setAttribute('href', '#');
-        $a.classList.add('is-disabled');
-      }
-
-      var $text = '';
-      if (_json.title) {
-        $text = document.createTextNode(_json.title);
-      } else {
-        $text = document.createTextNode(_json.name);
-      }
-
+      $a.setAttribute('href', _json.url);
+      $a.setAttribute('target', '_blank');
+      //var $text = document.createTextNode(_json.name + '：' + _json.title);
+      var $text = document.createTextNode(_json.title);
       $a.appendChild($text);
       $li.appendChild($a);
 
@@ -489,7 +454,6 @@ fetch(url_delay)
   $topLi.setAttribute('id', 'home');
   var $topA = document.createElement('a');
   $topA.setAttribute('href', json.url);
-  $topA.setAttribute('target', '_blank');
   // var $topText = document.createTextNode(json.name + '：' + json.title);
   var $topText = document.createTextNode(json.title);
   $topA.appendChild($topText);
